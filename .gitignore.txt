@@ -1,3 +1,0 @@
-*.png
-file_01.txt
-file_04.txt
