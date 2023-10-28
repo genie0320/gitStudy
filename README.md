@@ -70,9 +70,7 @@ git merge <feature_branch_name> // Should be on main branch at this time.
 
 #### Concepts
 
-![trunkbased][img/trunkbased.png]
-
-[trunkbased.png]: img/trunkbased.png
+![trunkbased](img/trunkbased.png)
 
 A single branch called [trunk] and [feature/..] with very short life.
 
