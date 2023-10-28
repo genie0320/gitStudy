@@ -28,7 +28,7 @@ git merge <feature_branch_name> // Should be on main branch at this time.
 
 #### Concepts
 
-![git-flow](git_flow.png)
+![git-flow](img/git_flow.png)
 
 - Master : Stores the official release history
 - Develop : Serves as an integration branch for features.
@@ -70,9 +70,9 @@ git merge <feature_branch_name> // Should be on main branch at this time.
 
 #### Concepts
 
-![trunkbased][trunkbased.png]
+![trunkbased][img/trunkbased.png]
 
-[trunkbased.png]: trunkbased.png
+[trunkbased.png]: img/trunkbased.png
 
 A single branch called [trunk] and [feature/..] with very short life.
 
