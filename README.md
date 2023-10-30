@@ -19,6 +19,8 @@ git merge <feature_branch_name> // Should be on main branch at this time.
 
 ```
 
+### [For more commands list](/readme/com_list.md)
+
 ## How to manage branchs.
 
 1. [Git Flow](#gitFlow)
